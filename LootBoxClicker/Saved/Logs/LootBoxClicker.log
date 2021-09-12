@@ -951,3 +951,548 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.12-04.07.57:055][969]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.09.12-04.07.57:055][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
 [2021.09.12-04.07.57:055][969]LogFileHelpers: Loading map 'Template_Default' took 0.062
+[2021.09.12-04.10.30:901][117]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-04.10.30:906][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-04.10.30:907][117]PIE: New page: PIE session: Untitled_1 (Sep 11, 2021, 8:10:30 PM)
+[2021.09.12-04.10.30:908][117]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.12-04.10.30:909][117]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.12-04.10.30:909][117]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.09.12-04.10.30:919][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010405s)
+[2021.09.12-04.10.30:920][117]LogAIModule: Creating AISystem for world Untitled_1
+[2021.09.12-04.10.30:920][117]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028C3ECD2400), frame # 4117
+[2021.09.12-04.10.30:920][117]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C41582480), frame # 4117
+[2021.09.12-04.10.30:921][117]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2021.09.12-04.10.30:921][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.011645s)
+[2021.09.12-04.10.30:929][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-04.10.30:931][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-04.10.30:931][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.12-04.10.30:931][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-04.10.30:941][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-04.10.30:941][117]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-04.10.30:990][117]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Ultimate)
+[2021.09.12-04.10.30:990][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-04.10.30:990][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-04.10.30:990][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-04.10.30:991][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-04.10.31:002][117]LogInit: FAudioDevice initialized.
+[2021.09.12-04.10.31:006][117]LogLoad: Game class is 'GameModeBase'
+[2021.09.12-04.10.31:007][117]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.09.12-00.10.31
+[2021.09.12-04.10.31:007][117]LogWorld: Bringing up level for play took: 0.000380
+[2021.09.12-04.10.31:007][117]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.09.12-04.10.31:010][117]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.12-04.10.31:089][117]PIE: Server logged in
+[2021.09.12-04.10.31:090][117]PIE: Play in editor total start time 0.186 seconds.
+[2021.09.12-04.10.36:162][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.10.36:162][718]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.09.12-04.10.36:162][718]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.10.36:162][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.10.36:170][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-04.10.36:171][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.10.36:178][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.10.36:193][718]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028C41582480), frame # 4718
+[2021.09.12-04.10.36:193][718]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028C3ECD2400), frame # 4718
+[2021.09.12-04.10.36:194][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.12-04.10.36:233][721]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.09.12-04.10.56:801][471]LogSlate: Window 'Save Level As' being destroyed
+[2021.09.12-04.10.56:823][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.12-04.10.56:833][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.12-04.10.56:860][471]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Main7EBBE459446FA4880AE050ADE0628287.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/Main.umap'
+[2021.09.12-04.10.56:868][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/Main_BuiltData.uasset" SILENT=true
+[2021.09.12-04.10.56:875][471]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Main_BuiltData5BD6C5464D565A3E1232F1820FC24B5D.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/Main_BuiltData.uasset'
+[2021.09.12-04.10.56:883][471]LogFileHelpers: Saving map 'Main' took 0.077
+[2021.09.12-04.10.56:886][471]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.12-04.10.56:886][471]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.09.12-04.10.56:886][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.09.12-04.11.08:600][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel_BuiltData.uasset" SILENT=true
+[2021.09.12-04.11.08:607][269]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainLevel_BuiltData53E7BCD64648D9C9351DA9A35E794186.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel_BuiltData.uasset'
+[2021.09.12-04.11.08:608][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.12-04.11.08:616][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.12-04.11.08:627][269]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainLevel589EB769454943DAEAA949A7745AE6C9.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel.umap'
+[2021.09.12-04.11.08:632][269]LogFileHelpers: Saving map 'MainLevel' took 0.024
+[2021.09.12-04.11.08:724][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.12-04.11.08:733][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.12-04.11.08:749][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.09.12-04.11.08:758][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.12-04.11.08:777][269]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.12-04.11.08:777][269]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.09.12-04.11.08:777][269]LogContentValidation: Display: Validating World /Game/MainLevel.MainLevel
+[2021.09.12-04.12.49:678][ 25]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.12-04.13.16:706][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.09.12-04.13.18:595][217]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.12-04.13.18:640][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.09.12-04.13.23:542][620]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.12-04.13.44:587][180]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.12-04.14.34:888][565]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.09.12-04.14.35:108][565]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.09.12-04.14.36:250][565]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.12-04.16.38:872][352]BlueprintLog: New page: Compile MainWidget
+[2021.09.12-04.16.38:924][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.09.12-04.16.39:051][359]BlueprintLog: New page: Compile MainWidget
+[2021.09.12-04.16.39:073][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.09.12-04.17.11:902][ 22]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.17.11:909][ 22]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.17.11:943][ 22]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.17.11:943][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.17.11:950][ 22]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.17.11:950][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.17.19:228][177]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainPlayer.MainPlayer
+[2021.09.12-04.17.26:425][311]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:129).
+[2021.09.12-04.17.26:488][311]LogRenderer: Reallocating scene render targets to support 1208x596 Format 10 NumSamples 1 (Frame:130).
+[2021.09.12-04.17.26:526][311]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:131).
+[2021.09.12-04.18.13:667][404]LogSlate: Took 0.019641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.12-04.18.19:998][525]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.12-04.18.36:395][ 16]BlueprintLog: New page: Compile MainPlayer
+[2021.09.12-04.18.36:448][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.09.12-04.18.36:516][ 16]LogSlate: Took 0.031127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.12-04.18.37:772][166]LogSlate: Window 'MainPlayer' being destroyed
+[2021.09.12-04.18.37:778][166]LogSlate: Window 'MainPlayer' being destroyed
+[2021.09.12-04.18.37:783][166]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.18.37:783][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.18.42:297][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainPlayer" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainPlayer.uasset" SILENT=true
+[2021.09.12-04.18.42:301][667]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainPlayerD515F21743FB82A034B219AAA528421D.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainPlayer.uasset'
+[2021.09.12-04.18.42:312][667]AssetCheck: New page: Asset Save: MainPlayer
+[2021.09.12-04.18.42:312][667]LogContentValidation: Display: Validating Blueprint /Game/MainPlayer.MainPlayer
+[2021.09.12-04.18.43:884][846]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-04.18.43:890][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-04.18.43:890][846]PIE: New page: PIE session: MainLevel (Sep 11, 2021, 8:18:43 PM)
+[2021.09.12-04.18.43:920][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.18.43:922][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002019s)
+[2021.09.12-04.18.43:922][846]LogAIModule: Creating AISystem for world MainLevel
+[2021.09.12-04.18.43:923][846]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028C8065B000), frame # 31846
+[2021.09.12-04.18.43:923][846]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C885FD580), frame # 31846
+[2021.09.12-04.18.43:923][846]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2021.09.12-04.18.43:923][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003078s)
+[2021.09.12-04.18.43:955][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.09.12-04.18.43:957][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-04.18.43:957][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-04.18.43:957][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-04.18.43:957][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-04.18.43:957][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-04.18.43:957][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-04.18.43:957][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-04.18.43:957][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-04.18.43:958][846]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.12-04.18.43:958][846]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-04.18.43:967][846]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-04.18.43:967][846]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-04.18.44:015][846]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Ultimate)
+[2021.09.12-04.18.44:015][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-04.18.44:015][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-04.18.44:015][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-04.18.44:015][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-04.18.44:025][846]LogInit: FAudioDevice initialized.
+[2021.09.12-04.18.44:034][846]LogLoad: Game class is 'MainGamemode_C'
+[2021.09.12-04.18.44:036][846]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.09.12-00.18.44
+[2021.09.12-04.18.44:036][846]LogWorld: Bringing up level for play took: 0.000386
+[2021.09.12-04.18.44:036][846]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.09.12-04.18.44:038][846]PIE: Server logged in
+[2021.09.12-04.18.44:038][846]PIE: Play in editor total start time 0.152 seconds.
+[2021.09.12-04.18.51:601][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.18.51:601][750]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.18.51:602][750]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.18.51:602][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.18.51:608][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-04.18.51:610][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.18.51:636][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.18.51:637][750]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028C885FD580), frame # 32750
+[2021.09.12-04.18.51:637][750]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028C8065B000), frame # 32750
+[2021.09.12-04.18.51:639][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.09.12-04.18.51:684][753]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.09.12-04.19.04:044][149]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.09.12-04.19.16:252][510]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.19.16:259][510]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.19.16:261][510]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.19.16:261][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.19.16:265][510]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.19.16:265][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.19.18:754][792]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-04.19.18:760][792]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.12-04.19.18:761][792]LogPlayLevel: [PlayLevel] Compiling MainWidget before play...
+[2021.09.12-04.19.18:785][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.09.12-04.19.18:787][792]LogPlayLevel: PlayLevel: Blueprint regeneration took 27 ms (1 blueprints)
+[2021.09.12-04.19.18:787][792]PIE: New page: PIE session: MainLevel (Sep 11, 2021, 8:19:18 PM)
+[2021.09.12-04.19.18:815][792]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.19.18:816][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001554s)
+[2021.09.12-04.19.18:817][792]LogAIModule: Creating AISystem for world MainLevel
+[2021.09.12-04.19.18:817][792]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028C3A800800), frame # 34792
+[2021.09.12-04.19.18:817][792]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C8021D080), frame # 34792
+[2021.09.12-04.19.18:817][792]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2021.09.12-04.19.18:817][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.002604s)
+[2021.09.12-04.19.18:831][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.09.12-04.19.18:831][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-04.19.18:831][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-04.19.18:831][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-04.19.18:831][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-04.19.18:831][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-04.19.18:831][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-04.19.18:831][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-04.19.18:831][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-04.19.18:832][792]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.12-04.19.18:832][792]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-04.19.18:841][792]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-04.19.18:841][792]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-04.19.18:896][792]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Ultimate)
+[2021.09.12-04.19.18:896][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-04.19.18:896][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-04.19.18:896][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-04.19.18:896][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-04.19.18:906][792]LogInit: FAudioDevice initialized.
+[2021.09.12-04.19.18:915][792]LogLoad: Game class is 'MainGamemode_C'
+[2021.09.12-04.19.18:916][792]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.09.12-00.19.18
+[2021.09.12-04.19.18:917][792]LogWorld: Bringing up level for play took: 0.000358
+[2021.09.12-04.19.18:917][792]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.09.12-04.19.18:918][792]PIE: Server logged in
+[2021.09.12-04.19.18:919][792]PIE: Play in editor total start time 0.162 seconds.
+[2021.09.12-04.19.22:357][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.19.22:357][201]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.19.22:357][201]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.19.22:357][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.19.22:362][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-04.19.22:364][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.19.22:378][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.19.22:393][201]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028C8021D080), frame # 35201
+[2021.09.12-04.19.22:393][201]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028C3A800800), frame # 35201
+[2021.09.12-04.19.22:394][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.09.12-04.19.22:438][204]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.12-04.19.39:452][320]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.12-04.19.42:526][681]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.09.12-04.19.43:637][811]Cmd: DELETE
+[2021.09.12-04.19.43:637][811]Cmd: ACTOR DELETE
+[2021.09.12-04.19.43:639][811]LogEditorActor: Deleted Actor: SkyLight
+[2021.09.12-04.19.43:654][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.12-04.19.43:656][811]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.12-04.19.45:145][990]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2021.09.12-04.19.45:542][ 34]Cmd: DELETE
+[2021.09.12-04.19.45:542][ 34]Cmd: ACTOR DELETE
+[2021.09.12-04.19.45:542][ 34]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.09.12-04.19.45:557][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.09.12-04.19.45:558][ 34]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.12-04.19.46:154][106]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.09.12-04.19.46:385][130]Cmd: DELETE
+[2021.09.12-04.19.46:385][130]Cmd: ACTOR DELETE
+[2021.09.12-04.19.46:386][130]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2021.09.12-04.19.50:788][130]LogSlate: Window 'Message' being destroyed
+[2021.09.12-04.19.50:794][130]Message dialog closed, result: Yes, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Sky Sphere
+[2021.09.12-04.19.50:795][130]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.09.12-04.19.50:809][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.12-04.19.50:810][130]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.12-04.19.51:973][270]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.09.12-04.19.52:391][317]Cmd: DELETE
+[2021.09.12-04.19.52:391][317]Cmd: ACTOR DELETE
+[2021.09.12-04.19.52:392][317]LogEditorActor: Deleted Actor: PlayerStart
+[2021.09.12-04.19.52:406][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.12-04.19.52:407][317]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.12-04.19.53:237][417]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2021.09.12-04.19.53:392][432]Cmd: DELETE
+[2021.09.12-04.19.53:392][432]Cmd: ACTOR DELETE
+[2021.09.12-04.19.53:392][432]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2021.09.12-04.19.53:407][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.12-04.19.53:408][432]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.12-04.19.54:021][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.12-04.19.54:145][519]Cmd: DELETE
+[2021.09.12-04.19.54:145][519]Cmd: ACTOR DELETE
+[2021.09.12-04.19.54:146][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.12-04.19.54:159][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.12-04.19.54:160][519]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.09.12-04.20.16:625][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.12-04.20.29:852][395]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.29:852][395]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.12-04.20.30:332][410]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.30:332][410]LogEditorTransaction: Undo Delete Actors
+[2021.09.12-04.20.30:872][472]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.30:872][472]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.12-04.20.31:239][514]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.31:239][514]LogEditorTransaction: Undo Delete Actors
+[2021.09.12-04.20.31:589][554]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.31:589][554]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.12-04.20.31:948][597]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.31:948][597]LogEditorTransaction: Undo Delete Actors
+[2021.09.12-04.20.32:289][637]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.32:289][637]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.12-04.20.32:588][673]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.32:588][673]LogEditorTransaction: Undo Delete Actors
+[2021.09.12-04.20.33:007][721]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.33:007][721]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.12-04.20.33:271][751]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.33:271][751]LogEditorTransaction: Undo Delete Actors
+[2021.09.12-04.20.33:616][790]Cmd: TRANSACTION UNDO
+[2021.09.12-04.20.33:616][790]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.12-04.20.35:504][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.12-04.20.36:565][ 17]Cmd: DELETE
+[2021.09.12-04.20.36:565][ 17]Cmd: ACTOR DELETE
+[2021.09.12-04.20.36:566][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.12-04.20.36:581][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.09.12-04.20.36:585][ 17]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.12-04.20.37:568][135]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2021.09.12-04.20.37:797][159]Cmd: DELETE
+[2021.09.12-04.20.37:797][159]Cmd: ACTOR DELETE
+[2021.09.12-04.20.37:797][159]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2021.09.12-04.20.37:812][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.12-04.20.37:813][159]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.12-04.20.38:785][276]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2021.09.12-04.20.38:937][291]Cmd: DELETE
+[2021.09.12-04.20.38:937][291]Cmd: ACTOR DELETE
+[2021.09.12-04.20.38:937][291]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.09.12-04.20.38:952][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.12-04.20.38:953][291]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.12-04.20.39:783][391]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.09.12-04.20.39:920][404]Cmd: DELETE
+[2021.09.12-04.20.39:920][404]Cmd: ACTOR DELETE
+[2021.09.12-04.20.39:921][404]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2021.09.12-04.20.42:866][404]LogSlate: Window 'Message' being destroyed
+[2021.09.12-04.20.42:871][404]Message dialog closed, result: Yes, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Sky Sphere
+[2021.09.12-04.20.42:871][404]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.09.12-04.20.42:887][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.09.12-04.20.42:888][404]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.12-04.20.51:549][126]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-04.20.51:555][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-04.20.51:555][126]PIE: New page: PIE session: MainLevel (Sep 11, 2021, 8:20:51 PM)
+[2021.09.12-04.20.51:555][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.20.51:556][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2021.09.12-04.20.51:557][126]LogAIModule: Creating AISystem for world MainLevel
+[2021.09.12-04.20.51:557][126]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028C5CF2C800), frame # 40126
+[2021.09.12-04.20.51:557][126]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C80189940), frame # 40126
+[2021.09.12-04.20.51:557][126]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2021.09.12-04.20.51:557][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.002028s)
+[2021.09.12-04.20.51:572][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-04.20.51:573][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-04.20.51:573][126]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.12-04.20.51:573][126]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-04.20.51:583][126]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-04.20.51:583][126]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-04.20.51:630][126]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Ultimate)
+[2021.09.12-04.20.51:630][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-04.20.51:630][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-04.20.51:630][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-04.20.51:630][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-04.20.51:641][126]LogInit: FAudioDevice initialized.
+[2021.09.12-04.20.51:646][126]LogLoad: Game class is 'MainGamemode_C'
+[2021.09.12-04.20.51:647][126]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.09.12-00.20.51
+[2021.09.12-04.20.51:647][126]LogWorld: Bringing up level for play took: 0.000325
+[2021.09.12-04.20.51:647][126]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.09.12-04.20.51:649][126]PIE: Server logged in
+[2021.09.12-04.20.51:650][126]PIE: Play in editor total start time 0.097 seconds.
+[2021.09.12-04.20.56:298][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.20.56:298][676]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.20.56:298][676]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.20.56:298][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.20.56:302][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-04.20.56:305][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.20.56:317][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.20.56:332][676]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028C80189940), frame # 40676
+[2021.09.12-04.20.56:332][676]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028C5CF2C800), frame # 40676
+[2021.09.12-04.20.56:333][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.09.12-04.20.56:366][678]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.09.12-04.21.18:710][678]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.09.12-04.22.35:836][266]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.12-04.23.01:397][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.09.12-04.23.01:399][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Autosaves/Game/MainLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.12-04.23.01:406][675]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainLevel_Auto120987F964E0BA703187452821E3E4B9C.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Autosaves/Game/MainLevel_Auto1.umap'
+[2021.09.12-04.23.01:407][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.031
+[2021.09.12-04.23.01:407][675]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.031
+[2021.09.12-04.23.01:407][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainGamemode] ([1] browsable assets)...
+[2021.09.12-04.23.01:407][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainGamemode]
+[2021.09.12-04.23.01:407][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGamemode" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Autosaves/Game/MainGamemode_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.09.12-04.23.01:412][675]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainGamemode_Auto144B65994429B6FD49B84778116000B62.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Autosaves/Game/MainGamemode_Auto1.uasset'
+[2021.09.12-04.23.01:413][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainWidget] ([1] browsable assets)...
+[2021.09.12-04.23.01:413][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainWidget]
+[2021.09.12-04.23.01:413][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Autosaves/Game/MainWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.09.12-04.23.01:417][675]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainWidget_Auto1D9B8AC174A61253D871D96B62EE270D2.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/Autosaves/Game/MainWidget_Auto1.uasset'
+[2021.09.12-04.23.01:417][675]LogFileHelpers: Auto-saving content packages took 0.010
+[2021.09.12-04.26.37:587][566]LogSlate: Took 0.019796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.12-04.28.00:045][262]BlueprintLog: New page: Compile MainWidget
+[2021.09.12-04.28.00:070][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.09.12-04.28.03:160][626]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.28.03:168][626]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.28.03:202][626]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.28.03:202][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.28.03:207][626]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.28.03:208][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.28.08:146][179]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.09.12-04.30.10:402][338]BlueprintLog: New page: Compile MainWidget
+[2021.09.12-04.30.10:436][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.09.12-04.30.11:904][498]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.30.11:910][498]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.30.11:939][498]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.30.11:939][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.30.11:944][498]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.30.11:944][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.30.12:827][595]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-04.30.12:833][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-04.30.12:833][595]PIE: New page: PIE session: MainLevel (Sep 11, 2021, 8:30:12 PM)
+[2021.09.12-04.30.12:880][595]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.30.12:881][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001138s)
+[2021.09.12-04.30.12:882][595]LogAIModule: Creating AISystem for world MainLevel
+[2021.09.12-04.30.12:882][595]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028C95CC4A00), frame # 77595
+[2021.09.12-04.30.12:882][595]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C98252C00), frame # 77595
+[2021.09.12-04.30.12:882][595]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2021.09.12-04.30.12:882][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.002285s)
+[2021.09.12-04.30.12:898][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.09.12-04.30.12:899][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-04.30.12:899][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-04.30.12:899][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-04.30.12:899][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-04.30.12:899][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-04.30.12:899][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-04.30.12:899][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-04.30.12:899][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-04.30.12:900][595]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.12-04.30.12:900][595]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-04.30.12:909][595]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-04.30.12:909][595]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-04.30.12:955][595]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Ultimate)
+[2021.09.12-04.30.12:955][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-04.30.12:955][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-04.30.12:956][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-04.30.12:956][595]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-04.30.12:966][595]LogInit: FAudioDevice initialized.
+[2021.09.12-04.30.12:974][595]LogLoad: Game class is 'MainGamemode_C'
+[2021.09.12-04.30.12:975][595]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.09.12-00.30.12
+[2021.09.12-04.30.12:975][595]LogWorld: Bringing up level for play took: 0.000318
+[2021.09.12-04.30.12:975][595]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.09.12-04.30.12:977][595]PIE: Server logged in
+[2021.09.12-04.30.12:978][595]PIE: Play in editor total start time 0.147 seconds.
+[2021.09.12-04.30.19:511][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.30.19:511][332]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.30.19:511][332]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.30.19:511][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.30.19:515][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-04.30.19:517][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.30.19:544][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.30.19:545][332]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028C98252C00), frame # 78332
+[2021.09.12-04.30.19:545][332]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028C95CC4A00), frame # 78332
+[2021.09.12-04.30.19:547][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.09.12-04.30.19:584][336]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.09.12-04.30.57:161][926]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainWidget.MainWidget
+[2021.09.12-04.31.18:650][758]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-04.31.18:656][758]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.12-04.31.18:657][758]LogPlayLevel: [PlayLevel] Compiling MainWidget before play...
+[2021.09.12-04.31.18:748][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.09.12-04.31.18:749][758]LogPlayLevel: PlayLevel: Blueprint regeneration took 93 ms (1 blueprints)
+[2021.09.12-04.31.18:749][758]PIE: New page: PIE session: MainLevel (Sep 11, 2021, 8:31:18 PM)
+[2021.09.12-04.31.18:792][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.31.18:793][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001079s)
+[2021.09.12-04.31.18:794][758]LogAIModule: Creating AISystem for world MainLevel
+[2021.09.12-04.31.18:794][758]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028C88B63E00), frame # 83758
+[2021.09.12-04.31.18:794][758]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C95F59E40), frame # 83758
+[2021.09.12-04.31.18:794][758]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2021.09.12-04.31.18:794][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.001972s)
+[2021.09.12-04.31.18:811][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-04.31.18:812][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-04.31.18:812][758]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.12-04.31.18:812][758]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-04.31.18:821][758]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-04.31.18:821][758]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-04.31.18:870][758]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Ultimate)
+[2021.09.12-04.31.18:870][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-04.31.18:870][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-04.31.18:870][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-04.31.18:870][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-04.31.18:881][758]LogInit: FAudioDevice initialized.
+[2021.09.12-04.31.18:896][758]LogLoad: Game class is 'MainGamemode_C'
+[2021.09.12-04.31.18:897][758]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.09.12-00.31.18
+[2021.09.12-04.31.18:897][758]LogWorld: Bringing up level for play took: 0.000370
+[2021.09.12-04.31.18:897][758]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.09.12-04.31.18:899][758]PIE: Server logged in
+[2021.09.12-04.31.18:900][758]PIE: Play in editor total start time 0.246 seconds.
+[2021.09.12-04.31.24:025][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.31.24:025][271]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.31.24:025][271]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.31.24:025][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.31.24:034][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.12-04.31.24:037][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.31.24:053][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.12-04.31.24:068][271]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028C95F59E40), frame # 84271
+[2021.09.12-04.31.24:068][271]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028C88B63E00), frame # 84271
+[2021.09.12-04.31.24:070][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.09.12-04.31.24:090][272]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.09.12-04.31.26:100][477]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.31.26:107][477]LogSlate: Window 'MainWidget' being destroyed
+[2021.09.12-04.31.26:109][477]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.31.26:109][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.31.26:111][477]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.12-04.31.26:111][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.12-04.31.27:187][599]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.12-04.31.27:193][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.12-04.31.27:193][599]PIE: New page: PIE session: MainLevel (Sep 11, 2021, 8:31:27 PM)
+[2021.09.12-04.31.27:193][599]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.09.12-04.31.27:194][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001062s)
+[2021.09.12-04.31.27:195][599]LogAIModule: Creating AISystem for world MainLevel
+[2021.09.12-04.31.27:195][599]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028CA8E77200), frame # 84599
+[2021.09.12-04.31.27:195][599]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C95F591C0), frame # 84599
+[2021.09.12-04.31.27:195][599]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2021.09.12-04.31.27:195][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.002287s)
+[2021.09.12-04.31.27:212][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.09.12-04.31.27:213][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.12-04.31.27:213][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.12-04.31.27:213][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.12-04.31.27:213][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.12-04.31.27:213][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.12-04.31.27:213][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.12-04.31.27:213][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.12-04.31.27:213][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.12-04.31.27:214][599]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.12-04.31.27:214][599]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.12-04.31.27:223][599]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.12-04.31.27:223][599]LogAudioMixer: Display: 1: FrontRight
+[2021.09.12-04.31.27:269][599]LogAudioMixer: Display: Using Audio Device Speakers (Razer Kraken Ultimate)
+[2021.09.12-04.31.27:269][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.12-04.31.27:269][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.12-04.31.27:269][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.12-04.31.27:270][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.12-04.31.27:279][599]LogInit: FAudioDevice initialized.
+[2021.09.12-04.31.27:289][599]LogLoad: Game class is 'MainGamemode_C'
+[2021.09.12-04.31.27:290][599]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.09.12-00.31.27
+[2021.09.12-04.31.27:290][599]LogWorld: Bringing up level for play took: 0.000273
+[2021.09.12-04.31.27:290][599]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.09.12-04.31.27:292][599]PIE: Server logged in
+[2021.09.12-04.31.27:292][599]PIE: Play in editor total start time 0.103 seconds.
+[2021.09.12-04.34.50:705][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.09.12-04.34.50:707][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.12-04.34.50:721][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.12-04.34.50:728][425]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainLevel908C83B74B26996F6728AAAC14DB1402.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel.umap'
+[2021.09.12-04.34.50:739][425]LogFileHelpers: Saving map 'MainLevel' took 0.032
+[2021.09.12-04.34.50:739][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel_BuiltData.uasset" SILENT=true
+[2021.09.12-04.34.50:745][425]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainLevel_BuiltDataF49016254596CB701E64629D0605D449.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel_BuiltData.uasset'
+[2021.09.12-04.34.50:747][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel_BuiltData.uasset" SILENT=true
+[2021.09.12-04.34.50:753][425]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainLevel_BuiltDataF7028042494D355FC0C297ABA5F9385C.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainLevel_BuiltData.uasset'
+[2021.09.12-04.34.50:753][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGamemode" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainGamemode.uasset" SILENT=true
+[2021.09.12-04.34.50:757][425]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainGamemode30A0523C49D1A601F8495CAA99598D30.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainGamemode.uasset'
+[2021.09.12-04.34.50:758][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainWidget" FILE="../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainWidget.uasset" SILENT=true
+[2021.09.12-04.34.50:767][425]LogSavePackage: Moving '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Saved/MainWidget943FEBBE4BC096341AB13FA1E006F91D.tmp' to '../../../../../../SchoolWork/DIG 4720/LootBoxGame/LootBoxClicker/Content/MainWidget.uasset'
+[2021.09.12-04.34.50:785][425]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.12-04.34.50:785][425]LogContentValidation: Display: Validating World /Game/MainLevel.MainLevel
+[2021.09.12-04.34.50:785][425]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.09.12-04.34.50:785][425]LogContentValidation: Display: Validating Blueprint /Game/MainGamemode.MainGamemode
+[2021.09.12-04.34.50:786][425]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainWidget.MainWidget
